@@ -2,7 +2,7 @@
 
 ## Resumen
 
-¡Hola Agustín! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
+¡Hola Maximiliano! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
 
 ## Objetivos del challenge
 
@@ -11,9 +11,9 @@
 - [✓] Crear una versión de escritorio
 
 - [✓] Cada producto debe tener un precio visible en puntos.
-- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página)
+- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página) Envía al perfil, no al repo
 - [✗] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
-- [✗] El usuario debería poder ver cuántos puntos tiene en su cuenta.
+- [✓] El usuario debería poder ver cuántos puntos tiene en su cuenta.
 - [✗] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
 - [✓] Un botón "Canjear" debe estar disponible para aquellos productos que el usuario tiene suficientes puntos para reclamar.
 - [✗] Una opción "Canjear ahora" debería aparecer cuando el usuario interactúa con un producto que tiene suficientes puntos para reclamar.
@@ -36,24 +36,27 @@
 
 ## Aspectos positivos
 
-- El formato visual obtenido es acorde al solicitado por el desafío
+- El proyecto sigue una estructura modular
+- El formato visual obtenido es muy acorde al solicitado por el desafío
+- Alojamiento en vercel
+- Utilización de NextJS
+- Trabaja con información externa y utiliza variables de entorno
 
 ## Áreas de mejora
 
 1. **Funcionalidad**: 
-Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Podés hacerlo utilizando JavaScript o utilizando algún framework para este lenguaje como React. También te recomiendo investigar la implementación de API para poder utilizar información de forma dinámica. En el HTML te recomiendo intentar utilizar una semántica apropiada de HTML5 incorporando etiquetas como *nav*, *header* , *footer*, ya que hacen que el documento sea más descriptivo y mejoran el SEO del proyecto 
+Te recomiendo agregar la funcionalidad faltante. Es un punto muy importante a la hora de evaluar un challenge. Los botones de filtrado recargan la página pero no tienen ningún efecto y los botones de compra no contienen la información real.
 
 2. **Responsividad**:
 En este aspecto es aconsejable que practiques el diseño responsive para que tus proyectos puedan ser adaptables a diferentes dispositivos generando una mejor experiencia para el usuario.
 
 3. **Detalles**:
-Es bueno poner atención a los detalles en general. Por ejemplo, falta mostrar los puntos del usuario en el navegador, así como terminar de darle los estilos a las cards y la barra de filtrados
+Es bueno poner atención a los detalles en general. Por ejemplo, los botones de ordenamiento no deberían recargar la página
 
 
 ## Conclusiones
 
-En general, el diseño de la página es agradable. Sin embargo, se recomienda trabajar con elementos más atómicos para mejorar la legibilidad, mejorar la funcionalidad y utilizar información dinámica proveída por la API externa.
-En mi opinión es un muy buen trabajo considerando que tu postulación ha sido como QA
+En general, el diseño de la página es agradable y condice bastante a lo requerido. Te felicito por haber hecho el detalle de la tarjeta para carga de puntos. Te recomiendo terminar las funcionalidades pedidas por el challenge, para los botones de compra te recomiendo renderizados condicionales en el caso de que el precio sea mayor o menor que el monto que tiene el usuario en su cuenta. Un detalle adicional pero muy importante es que agregues documentación de cómo correr el proyecto de forma local, ya que no está explicado en ningún lado la utilización de variables de entorno para las API key
 
 ¡Seguí adelante y seguí mejorando tus habilidades!
 
