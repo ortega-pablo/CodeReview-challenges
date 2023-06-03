@@ -2,7 +2,7 @@
 
 ## Resumen
 
-¡Hola Sebastian! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
+¡Hola Agustín! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
 
 ## Objetivos del challenge
 
@@ -10,12 +10,12 @@
 
 - [✓] Crear una versión de escritorio
 
-- [✗] Cada producto debe tener un precio visible en puntos.
-- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página) No lleva al proyecto
+- [✓] Cada producto debe tener un precio visible en puntos.
+- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página)
 - [✗] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
 - [✗] El usuario debería poder ver cuántos puntos tiene en su cuenta.
 - [✗] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
-- [✗] Un botón "Canjear" debe estar disponible para aquellos productos que el usuario tiene suficientes puntos para reclamar.
+- [✓] Un botón "Canjear" debe estar disponible para aquellos productos que el usuario tiene suficientes puntos para reclamar.
 - [✗] Una opción "Canjear ahora" debería aparecer cuando el usuario interactúa con un producto que tiene suficientes puntos para reclamar.
 - [✗] Cuando el usuario no tiene suficientes puntos para un producto, debería poder ver cuántos puntos más necesita para reclamarlo.
 - [✗] El usuario no debería poder canjear un producto para el que no tiene suficientes puntos.
@@ -26,7 +26,7 @@
 
 - [✗] Crea una versión adaptable para dispositivos móviles
 
-- [✗] El botón "ver todos los productos" (en la sección Héroe/Encabezado) debe desplazarse a la vista de los productos enumerados
+- [✓] El botón "ver todos los productos" (en la sección Héroe/Encabezado) debe desplazarse a la vista de los productos enumerados
 - [✓] Haga la sección "Navegar, Elegir, Disfrutar"
 - [✓] Pon todo tu esfuerzo en hacer que el sitio se vea hermoso
 - [✓] Presta atención a los detalles y al sistema de diseño que te proporcionamos
@@ -35,25 +35,25 @@
 
 
 ## Aspectos positivos
-- Utiliza estilos globales y asigna variables a características repetitivas
-- El diseño contiene la mayoría de las secciones requeridas
+
+- El formato visual obtenido es acorde al solicitado por el desafío
 
 ## Áreas de mejora
 
 1. **Funcionalidad**: 
-Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Podés hacerlo utilizando JavaScript o utilizando algún framework para este lenguaje como React. También te recomiendo investigar la implementación de API para poder utilizar información de forma dinámica.
+Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Podés hacerlo utilizando JavaScript o utilizando algún framework para este lenguaje como React. También te recomiendo investigar la implementación de API para poder utilizar información de forma dinámica. En el HTML te recomiendo intentar utilizar una semántica apropiada de HTML5 incorporando etiquetas como *nav*, *header* , *footer*, ya que hacen que el documento sea más descriptivo y mejoran el SEO del proyecto 
 
 2. **Responsividad**:
 En este aspecto es aconsejable que practiques el diseño responsive para que tus proyectos puedan ser adaptables a diferentes dispositivos generando una mejor experiencia para el usuario.
 
 3. **Detalles**:
-Es bueno poner atención a los detalles en general. Por ejemplo, falta mostrar los puntos del usuario en el navegador, así como mostrar los productos disponibles y terminar de estilar algunos elementos
+Es bueno poner atención a los detalles en general. Por ejemplo, falta mostrar los puntos del usuario en el navegador, así como terminar de darle los estilos a las cards y la barra de filtrados
 
 
 ## Conclusiones
 
-Puedo observar que intentaste seguir la línea de estilos pedida. Te recomiendo trabajar con elementos más atómicos para mejorar la legibilidad, realizar la funcionalidad y utilizar información dinámica proveída por la API externa.
-En mi opinión es un muy buen trabajo considerando que tu postulación ha sido como backend/QA
+En general, el diseño de la página es agradable. Sin embargo, se recomienda trabajar con elementos más atómicos para mejorar la legibilidad, mejorar la funcionalidad y utilizar información dinámica proveída por la API externa.
+En mi opinión es un muy buen trabajo considerando que tu postulación ha sido como QA
 
 ¡Seguí adelante y seguí mejorando tus habilidades!
 
