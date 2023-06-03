@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    justify-content: center;
+    transform: translateY(-100px);
+}
+.github_link_container{
+    display: flex;
+    justify-content: center;
+
+}
+.link_to_github{
+    display: flex;
+    justify-content: center;
+}

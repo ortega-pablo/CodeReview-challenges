@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 40px 0px;
+    gap: 689px;
+
+    height: 80px;
+    left: 228px;
+    right: 228px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+.logo{
+    width: 126px;
+    height: 48px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    padding-left: 10%;
+}

@@ -4,67 +4,275 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
-    <title>Aerolab</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="assets/icons/favicon.svg" type="image/x-icon">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="landing section.css">
+    <link rel="stylesheet" href="cards/card1.css">
+    <link rel="stylesheet" href="cards/card2.css">
+    <link rel="stylesheet" href="cards/card3.css">
+    <link rel="stylesheet" href="cards/cards_section.css">
+    <link rel="stylesheet" href="products.css">
+    <link rel="stylesheet" href="footer.css">
+    <title>Aerolab Challenge</title>
 </head>
 <body>
-    <header>
-        <img src="./assets/icons/aerolab-logo-1.svg" alt="">
-    </header>
-    <main>
-        <section class="landing">
-            <div class="landing-text">
-                <p>EXPLORE THE</p>
-                <h1>tech <span class="title">zone</span> </h1>
-                <p>Here you'll be able to exchange all of your hard-earned Aeropoints and exchange them for cool tech.</p>
+  <header>
+    <div class="logo">
+      <img src="assets/icons/aerolab-logo-1.svg" alt="Logo">
+    </div>
+  </header>
+<main>
+  <section class="landing_section"> 
+    
+    <div class="Copy_CTA">
+      <div class="landing_copy">
+        <div class="laber_title">
+          <p class="explore">Explore the</p>
+          <h1 class="tech_zone">tech zone</h1>
+          <p class="p2">Here you’ll be able to redeem all of your hard-earned 
+            Aeropoints and exchange them for cool tech.</p>
+            <button class="button_view_product"><span class="btn_view_prod">VIEW ALL PRODUCTS</span></button>
+        </div>
+      </div>
+    </div>
+    <div class="illustration_container">
+      <div class="illustration">
+          <div class="illustration_BG">
+            <img class="hero_desktop" src="assets/illustrations/hero-desktop.png" alt="hero-desktop">
+          </div>
+      </div>
+    </div>
+  </section>
+    <div class="walkthrough_cards">
+      <article class="intro_card_1">
+        <div class="top_card_1">
+          <div class="container_image">
+            <img src="assets/illustrations/walkthroug-1-desktop.png" alt="card_image" class="card_image">
+          </div>
+          <div class="illustration_card"></div>
+        </div>
+        <div class="bottom_card">
+          <div class="title_and_icon">
+            <div class="icon">
+              <img src="assets/icons/walkthrough-1.svg" alt="" class="icon_img">
+              <h3 class="title_card1">1—browse</h3>
             </div>
-            <div class="landing-logo">
-                <img class="logo" src="assets/illustrations/hero-desktop.png" alt="">
+            <div class="description">
+              <p>Browse our tech catalog with more than 20 top tech products</p>
             </div>
-        </section>
-        <button class="view-products">view all products <img src="assets/icons/Icons.svg" alt=""></button>
+          </div>
+        </div>
+      </article>
 
-        <section class="walkthrough">
-            <div class="walkthrough-card" id="card-one">
-                <img class="img-walkthrough" src="assets/illustrations/walkthroug-1-desktop.png" alt="">
-                <h2><img src="assets/icons/walkthrough-1.svg">1--Browse</h2>
-                <p class="card-paragraph">Browse our tech catalog with more than 20 top tech products</p>
+      <article class="intro_card_2">
+        <div class="top_card_2">
+          <div class="container_image_2">
+            <img src="assets/illustrations/walkthroug-2-desktop.png" alt="card_image" class="card_image_2">
+          </div>
+          <div class="illustration_card_2"></div>
+        </div>
+        <div class="bottom_card_2">
+          <div class="title_and_icon_2">
+            <div class="icon_2">
+              <img src="assets/icons/walkthrough-2.svg" alt="" class="icon_img_2">
+              <h3 class="title_card2">2—choose</h3>
             </div>
-            <div class="walkthrough-card" id="card-two">
-                <img class="img-walkthrough" src="assets/illustrations/walkthroug-2-desktop.png" alt="">
-                <h2><img src="assets/icons/walkthrough-2.svg">2--Choose</h2>
-                <p class="card-paragraph">Exchange your hard earned AeroPoints for the item you want</p>
+            <div class="description_2">
+              <p>Exchange your hard earned AeroPoints for the item you want</p>
             </div>
-            <div class="walkthrough-card" id="card-three">
-                <img class="img-walkthrough" src="assets/illustrations/walkthroug-3-desktop.png" alt="">
-                <h2><img src="assets/icons/walkthrough-3.svg">3--Enjoy!</h2>
-                <p class="card-paragraph">All done, you can relax! We'll take care of delivery of your tech item!</p>
+          </div>
+        </div>
+      </article>
+
+      <article class="intro_card_3">
+        <div class="top_card_3">
+          <div class="container_image_3">
+            <img src="assets/illustrations/walkthroug-3-desktop.png" alt="card_image" class="card_image_3">
+          </div>
+          <div class="illustration_card_3"></div>
+        </div>
+        <div class="bottom_card_3">
+          <div class="title_and_icon_3">
+            <div class="icon_3">
+              <img src="assets/icons/walkthrough-3.svg" alt="" class="icon_img_3">
+              <h3 class="title_card3">3—enjoy!</h3>
             </div>
-        </section>
+            <div class="description_3">
+              <p>All done, you can relax! We’ll take care of delivery of your tech item!</p>
+            </div>
+          </div>
+        </div>
+      </article>
+    </div>
+    <div class="walkthrough_section_BG">
+    </div>
+  <section class="products_section">
+    <h2 class="tech_prod_title">tech productos</h2>
+    <div class="controls">
+      <div class="filters_and_pages">
+        <div class="filter_by">
+          <span>Filter by:</span>
+          <select class="Filter">
+            <option class="options" value="opcion1">All Products</option>
+            <option class="options" value="opcion2">Gaming</option>
+            <option class="options" value="opcion3">Audio</option>
+            <option class="options" value="opcion4">Smart Home</option>
+            <option class="options" value="opcion5">Monitors & TV</option>
+          </select>
+        </div>
+        <span class="rectangle">|</span>
+        <div class="filters_buttons">
+          <span>Sort by:  </span>
+          <div class="container_buttons">
+            <button class="btn_Most"><span class="btn_text">Most Recent</span> </button>
+            <button class="btn_sec"><span class="btn_text_sec">Lowest Price</span></button>
+            <button class="btn_sec"><span class="btn_text_sec">Highest Price</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
 
-        <section class="products" id="products">
-            <h4>tech <span>products</span></h4>
-            <label for="product-category">Filter by:</label>
-            <select name="product-category" id="product-category">
-                <option value="all">All Products</option>
-            </select>
-            <span class="product-order">Sort by:</span>
-                <button class="order-button">Most Recent</button>
-                <button class="order-button">Lowest Price</button>
-                <button class="order-button">Highest Price</button>
-            <span class="pages">Page 1 of 2</span>
-        <article class="all-products">
-
-        </article>
-        <p class="quantity-products">32 of 32 products</p>
-        </section>
-    </main>
-
-    <footer>
-        <img src="assets/icons/github-default.svg" alt="">
-        <a href="https://github.com/Sofiamedina002/Frontend-Challenge" target="_blank">View this repository</a>
-    </footer> 
-
-    <script src="./js/data.js"></script>
+    <div class="products_cards">
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+    </div>
+    <div class="products_cards">
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+      <div class="product_row">
+        <div class="product_card_container">
+          <div class="product_img_description">
+            <div class="product_img_container">
+              <div class="product_img">
+                <img src="assets/teclado.png" alt="" class="prod_img">
+              </div>
+              <div class="product_description">
+                  <h3>Product detail</h3>
+                  <p>Product type</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="btn_prod"><span class="text_btn_prod">buy</span></button>
+      </div>
+    </div>
+  </section>
+</main>  
 </body>
+<footer>
+  <div class="github_link_container">
+    <span class="github_icon"><img src="assets/icons/github-default.svg" alt=""></span>
+    <span class="link_to_github"><h4><a href="https://github.com/Santiiago8/challenge_incluit" target="_blank">View this repository</a></h4></span>
+  </div>
+</footer>
 </html>
