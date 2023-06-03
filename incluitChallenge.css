@@ -1,0 +1,4544 @@
+.incluit-challenge-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.incluit-challenge-incluit-challenge {
+  width: 100%;
+  height: 4791px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-footer {
+  top: 4591px;
+  left: 0px;
+  width: 1920px;
+  display: flex;
+  padding: 80px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-navlink {
+  gap: 8px;
+  display: flex;
+  padding: 4px;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons {
+  width: 32px;
+  height: 32px;
+}
+.incluit-challenge-text {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: right;
+  line-height: 150%;
+  text-decoration: none;
+}
+.incluit-challenge-wavepattern {
+  top: 1192px;
+  left: -29px;
+  width: 2182px;
+  height: 341px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-path {
+  top: 0px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path01 {
+  top: 15px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path02 {
+  top: 30px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path03 {
+  top: 45px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path04 {
+  top: 60px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path05 {
+  top: 75px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path06 {
+  top: 90px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path07 {
+  top: 105px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path08 {
+  top: 120px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path09 {
+  top: 135px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path10 {
+  top: 150px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path11 {
+  top: 165px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path12 {
+  top: 180px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path13 {
+  top: 195px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path14 {
+  top: 210px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path15 {
+  top: 225px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path16 {
+  top: 240px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path17 {
+  top: 255px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path18 {
+  top: 270px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path19 {
+  top: 285px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path20 {
+  top: 300px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path21 {
+  top: 315px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-wavepattern1 {
+  top: 862px;
+  left: -29px;
+  width: 2182px;
+  height: 341px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-path22 {
+  top: 0px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path23 {
+  top: 15px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path24 {
+  top: 30px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path25 {
+  top: 45px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path26 {
+  top: 60px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path27 {
+  top: 75px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path28 {
+  top: 90px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path29 {
+  top: 105px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path30 {
+  top: 120px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path31 {
+  top: 135px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path32 {
+  top: 150px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path33 {
+  top: 165px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path34 {
+  top: 180px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path35 {
+  top: 195px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path36 {
+  top: 210px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path37 {
+  top: 225px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path38 {
+  top: 240px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path39 {
+  top: 255px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path40 {
+  top: 270px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path41 {
+  top: 285px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path42 {
+  top: 300px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path43 {
+  top: 315px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-wavepattern2 {
+  top: 201px;
+  left: -29px;
+  width: 2182px;
+  height: 341px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-path44 {
+  top: 0px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path45 {
+  top: 15px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path46 {
+  top: 30px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path47 {
+  top: 45px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path48 {
+  top: 60px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path49 {
+  top: 75px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path50 {
+  top: 90px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path51 {
+  top: 105px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path52 {
+  top: 120px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path53 {
+  top: 135px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path54 {
+  top: 150px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path55 {
+  top: 165px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path56 {
+  top: 180px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path57 {
+  top: 195px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path58 {
+  top: 210px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path59 {
+  top: 225px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path60 {
+  top: 240px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path61 {
+  top: 255px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path62 {
+  top: 270px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path63 {
+  top: 285px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path64 {
+  top: 300px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path65 {
+  top: 315px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-wavepattern3 {
+  top: 531px;
+  left: -29px;
+  width: 2182px;
+  height: 341px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-path66 {
+  top: 0px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path67 {
+  top: 15px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path68 {
+  top: 30px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path69 {
+  top: 45px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path70 {
+  top: 60px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path71 {
+  top: 75px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path72 {
+  top: 90px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path73 {
+  top: 105px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path74 {
+  top: 120px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path75 {
+  top: 135px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path76 {
+  top: 150px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path77 {
+  top: 165px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path78 {
+  top: 180px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path79 {
+  top: 195px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path80 {
+  top: 210px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path81 {
+  top: 225px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path82 {
+  top: 240px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path83 {
+  top: 255px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path84 {
+  top: 270px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path85 {
+  top: 285px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path86 {
+  top: 300px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-path87 {
+  top: 315px;
+  left: 0px;
+  width: 2182px;
+  height: 26px;
+  position: absolute;
+}
+.incluit-challenge-carrousel {
+  top: 952px;
+  left: 0px;
+  width: 1920px;
+  height: 721px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-background-cards {
+  top: 118px;
+  left: 0px;
+  width: 1920px;
+  height: 528px;
+  position: absolute;
+}
+.incluit-challenge-carrousel-cards {
+  top: 0px;
+  left: 228px;
+  width: 1464px;
+  height: 721px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-introcard {
+  top: 45.84375px;
+  left: 0px;
+  width: 532px;
+  height: 676px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 32px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-topcard {
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.incluit-challenge-illustration-bg {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 499px;
+  position: absolute;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px 24px 0 0;
+}
+.incluit-challenge-img1 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-img11 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  position: absolute;
+}
+.incluit-challenge-bottomcard {
+  gap: 12px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 24px 24px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-titleicon {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-iconwrapper {
+  gap: 2px;
+  display: flex;
+  padding: 4px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-brand-light);
+}
+.incluit-challenge-icons01 {
+  width: 40px;
+  height: 40px;
+}
+.incluit-challenge-text002 {
+  color: var(--dl-color-neutrals-600);
+  width: 372px;
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-introcard1 {
+  top: 0px;
+  left: 466.32421875px;
+  width: 532px;
+  height: 676px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 32px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-topcard1 {
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.incluit-challenge-illustration-bg1 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 499px;
+  position: absolute;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px 24px 0 0;
+}
+.incluit-challenge-img2 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-img21 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  position: absolute;
+}
+.incluit-challenge-bottomcard1 {
+  gap: 12px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 24px 24px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-titleicon1 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-iconwrapper1 {
+  gap: 2px;
+  display: flex;
+  padding: 4px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-brand-light);
+}
+.incluit-challenge-icons02 {
+  width: 40px;
+  height: 40px;
+}
+.incluit-challenge-text004 {
+  color: var(--dl-color-neutrals-600);
+  width: 372px;
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-introcard2 {
+  top: 18.5390625px;
+  left: 932.37890625px;
+  width: 532px;
+  height: 676px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 32px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-topcard2 {
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.incluit-challenge-illustration-bg2 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 499px;
+  position: absolute;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 24px 24px 0 0;
+}
+.incluit-challenge-img3 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-img31 {
+  top: 0px;
+  left: 0px;
+  width: 508px;
+  height: 498px;
+  position: absolute;
+}
+.incluit-challenge-bottomcard2 {
+  gap: 12px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 24px 24px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-titleicon2 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-iconwrapper2 {
+  gap: 2px;
+  display: flex;
+  padding: 4px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-brand-light);
+}
+.incluit-challenge-icons03 {
+  width: 40px;
+  height: 40px;
+}
+.incluit-challenge-text006 {
+  color: var(--dl-color-neutrals-600);
+  width: 372px;
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-product-section {
+  top: 1833px;
+  left: 0px;
+  width: 1920px;
+  height: 2598px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-header-products {
+  gap: 64px;
+  top: 0px;
+  left: 228px;
+  width: 1464px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-titlecontrols {
+  gap: 40px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-product-selection {
+  gap: 154px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.incluit-challenge-frame {
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-frame1 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-text008 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-filter {
+  gap: 8px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-rectangle115 {
+  width: 2px;
+  height: 59px;
+}
+.incluit-challenge-frame2 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-text010 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-sortrow {
+  gap: 12px;
+  display: flex;
+  align-items: flex-start;
+}
+.incluit-challenge-selectors {
+  gap: 10px;
+  display: flex;
+  padding: 8px 24px;
+  align-items: center;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-text012 {
+  color: var(--dl-color-neutrals-100);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-pager {
+  gap: 24px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+  justify-content: center;
+}
+.incluit-challenge-pager-arrowbuttons {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-icons04 {
+  width: 24px;
+  height: 24px;
+}
+.incluit-challenge-pager-arrowbuttons1 {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-brand-light);
+}
+.incluit-challenge-icons05 {
+  width: 24px;
+  height: 24px;
+}
+.incluit-challenge-products {
+  gap: 80px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-products1 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-productcard {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-frame167 {
+  gap: 16px;
+  height: 506px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.incluit-challenge-productcard01 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail {
+  top: 342.9999694824219px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text014 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text016 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame144 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.9155578613281px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-go-prox2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta {
+  gap: 8px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-productcard02 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.incluit-challenge-productcard03 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-frame1441 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 344.9162292480469px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-cta01 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-text018 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame153 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons06 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-aerolablogo {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo1 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page1 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text020 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard04 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.incluit-challenge-productcard05 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail01 {
+  top: 342.99993896484375px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text022 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text024 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame1442 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91583251953125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots01 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-chromecastx2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta02 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-text026 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15301 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons07 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-aerolablogo01 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo101 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page101 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog01 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top01 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo01 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text028 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard06 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.incluit-challenge-productcard07 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail02 {
+  top: 342.99993896484375px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text030 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text032 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame1443 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91583251953125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots02 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-canon-eos-dx2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta03 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-text034 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15302 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons08 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-aerolablogo02 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo102 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page102 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog02 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top02 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo02 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text036 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-products2 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-productcard08 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.incluit-challenge-productcard09 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail03 {
+  top: 342.99993896484375px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text038 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text040 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame1444 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91583251953125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots03 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-parrot--rx2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta04 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-text042 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15303 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons09 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-aerolablogo03 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo103 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page103 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog03 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top03 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo03 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text044 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard10 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard11 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail04 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text046 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text048 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots04 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-moto-g5x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta05 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text050 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15304 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons10 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo04 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo104 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page104 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog04 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top04 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo04 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text052 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard12 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product01 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard13 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail05 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text054 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text056 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer01 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots05 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-kobo-aurax2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta06 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text058 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15305 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons11 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo05 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo105 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page105 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog05 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top05 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo05 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text060 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard14 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product02 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard15 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail06 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text062 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text064 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer02 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots06 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-nintendo3-sx2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta07 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text066 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15306 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons12 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo06 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo106 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page106 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog06 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top06 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo06 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text068 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-products3 {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-productcard16 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product03 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard17 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail07 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text070 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text072 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer03 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots07 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-instax-minix2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta08 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text074 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15307 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons13 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo07 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo107 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page107 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog07 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top07 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo07 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text076 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard18 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product04 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard19 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail08 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text078 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text080 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer04 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots08 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-sony-ps4x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta09 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text082 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15308 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons14 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo08 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo108 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page108 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog08 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top08 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo08 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text084 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard20 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product05 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard21 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail09 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text086 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text088 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer05 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots09 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-alienware13x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta10 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text090 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15309 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons15 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo09 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo109 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page109 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog09 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top09 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo09 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text092 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard22 {
+  gap: 16px;
+  width: 348px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product06 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard23 {
+  width: 348px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail10 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text094 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text096 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer06 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots10 {
+  top: 64px;
+  left: 34px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-razer-blackwidowx2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta11 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text098 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15310 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons16 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo10 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo110 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page110 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog10 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top10 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo10 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text100 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-products4 {
+  gap: 20px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-productcard24 {
+  gap: 16px;
+  width: 351px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product07 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard25 {
+  width: 351px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail11 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text102 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text104 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer07 {
+  top: 0px;
+  left: 0px;
+  width: 351px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots11 {
+  top: 64px;
+  left: 36px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-samsung-s8x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta12 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text106 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15311 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons17 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo11 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo111 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page111 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog11 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top11 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo11 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text108 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard26 {
+  gap: 16px;
+  width: 351px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product08 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard27 {
+  width: 351px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail12 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text110 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text112 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer08 {
+  top: 0px;
+  left: 0px;
+  width: 351px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots12 {
+  top: 64px;
+  left: 36px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-beats-prox2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta13 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text114 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15312 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons18 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo12 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo112 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page112 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog12 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top12 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo12 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text116 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard28 {
+  gap: 16px;
+  width: 351px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product09 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard29 {
+  width: 351px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail13 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text118 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text120 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer09 {
+  top: 0px;
+  left: 0px;
+  width: 351px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots13 {
+  top: 64px;
+  left: 36px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-nikon-d300x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta14 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text122 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15313 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons19 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo13 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo113 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page113 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog13 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top13 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo13 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text124 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-productcard30 {
+  gap: 16px;
+  width: 351px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.incluit-challenge-product10 {
+  gap: 16px;
+  display: flex;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-productcard31 {
+  width: 351px;
+  height: 431px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-productdetail14 {
+  top: 343px;
+  left: 0px;
+  display: flex;
+  padding: 16px 24px 24px 24px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0 0 16px 16px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-text126 {
+  color: var(--dl-color-neutrals-900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text128 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-imagecontainer10 {
+  top: 0px;
+  left: 0px;
+  width: 351px;
+  height: 344.91632080078125px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px 16px 0 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-productshots14 {
+  top: 64px;
+  left: 36px;
+  width: 280px;
+  height: 204px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-sony-srsx11x2 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 204px;
+  position: absolute;
+}
+.incluit-challenge-cta15 {
+  gap: 8px;
+  display: flex;
+  padding: 16px 24px;
+  align-self: stretch;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-text130 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-frame15314 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons20 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-neutrals-500);
+}
+.incluit-challenge-aerolablogo14 {
+  top: 3px;
+  left: 1.5px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo114 {
+  top: 2.2499988079071045px;
+  left: 1.8750497102737427px;
+  width: 15px;
+  height: 13.5px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page114 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog14 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top14 {
+  top: 0px;
+  left: 0px;
+  width: 14.538464546203613px;
+  height: 13.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo14 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-text132 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-nrofproductspager {
+  gap: 292px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.incluit-challenge-empty {
+  width: 259px;
+  height: 64px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-pager1 {
+  gap: 24px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+  justify-content: center;
+}
+.incluit-challenge-pager-arrowbuttons2 {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutrals-200);
+}
+.incluit-challenge-icons21 {
+  width: 24px;
+  height: 24px;
+}
+.incluit-challenge-pager-arrowbuttons3 {
+  gap: 10px;
+  display: flex;
+  padding: 8px;
+  align-items: flex-start;
+  border-radius: 8px;
+  background-color: var(--dl-color-brand-light);
+}
+.incluit-challenge-icons22 {
+  width: 24px;
+  height: 24px;
+}
+.incluit-challenge-landing-section {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 920px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-index {
+  gap: 64px;
+  top: 240px;
+  left: 228px;
+  width: 602px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-h1 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-labeltitle {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.incluit-challenge-text134 {
+  color: var(--dl-color-neutrals-600);
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-text136 {
+  color: var(--dl-color-neutrals-600);
+  width: 523px;
+  height: auto;
+  text-align: left;
+  line-height: 150%;
+}
+.incluit-challenge-main-ct-inactive-desktop {
+  display: flex;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.05000000074505806);
+  align-items: center;
+  border-radius: 24px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-button {
+  gap: 4px;
+  display: flex;
+  padding: 24px 40px;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-text138 {
+  color: var(--dl-color-neutrals-0);
+  height: auto;
+  text-align: center;
+  line-height: 150%;
+}
+.incluit-challenge-codiconarrowsmalldown {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-group {
+  top: 6px;
+  left: 8.5px;
+  width: 14.25px;
+  height: 17.850000381469727px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 18px;
+  position: absolute;
+}
+.incluit-challenge-illustrationcontainer {
+  top: 45px;
+  left: 882px;
+  width: 897px;
+  height: 795px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-illustration {
+  top: 0px;
+  left: 0px;
+  width: 897px;
+  height: 795px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-illustration-bg3 {
+  top: 195px;
+  left: 88px;
+  width: 722px;
+  height: 600px;
+  position: absolute;
+  border-radius: 104px;
+}
+.incluit-challenge-saly19 {
+  top: 0px;
+  left: 0px;
+  width: 897px;
+  height: 795px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-image11 {
+  top: 0px;
+  left: 0px;
+  width: 897px;
+  height: 795px;
+  position: absolute;
+}
+.incluit-challenge-navbar {
+  gap: 689px;
+  top: 0px;
+  left: 228px;
+  width: 1464px;
+  display: flex;
+  padding: 40px 0;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.incluit-challenge-aerolablogo15 {
+  width: 126px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-logo15 {
+  top: 0.021696794778108597px;
+  left: 0.02803719788789749px;
+  width: 125.94371032714844px;
+  height: 47.95642852783203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-aerolab {
+  top: 19.30765151977539px;
+  left: 30.00604820251465px;
+  width: 88.60954284667969px;
+  height: 20.412288665771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-group1 {
+  top: 0px;
+  left: 0px;
+  width: 88.60954284667969px;
+  height: 20.412288665771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector1 {
+  top: 7.084499359130859px;
+  left: 38.54478454589844px;
+  width: 14px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-vector2 {
+  top: 0.000232696533203125px;
+  left: 54.29566192626953px;
+  width: 2px;
+  height: 20px;
+  position: absolute;
+}
+.incluit-challenge-vector3 {
+  top: 7.0342559814453125px;
+  left: 30.66951560974121px;
+  width: 7px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-vector4 {
+  top: 7.085897445678711px;
+  left: 15.469419479370117px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-group2 {
+  top: 7.084499359130859px;
+  left: 58.795955657958984px;
+  width: 13.21917724609375px;
+  height: 13.327789306640625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-group3 {
+  top: 7.084499359130859px;
+  left: 0px;
+  width: 13.219171524047852px;
+  height: 13.327789306640625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector6 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.incluit-challenge-group4 {
+  top: 0px;
+  left: 75.39037322998047px;
+  width: 13.219169616699219px;
+  height: 20.412288665771484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 20px;
+  position: absolute;
+}
+.incluit-challenge-kiteoption1 {
+  top: 3.8849809169769287px;
+  left: 4.689692497253418px;
+  width: 29.08356475830078px;
+  height: 28.332670211791992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-vector8 {
+  top: 0px;
+  left: 0px;
+  width: 29px;
+  height: 28px;
+  position: absolute;
+}
+.incluit-challenge-coins {
+  gap: 16px;
+  display: flex;
+  padding: 8px 16px;
+  box-shadow: 0px 2px 12px 0px rgba(0, 0, 0, 0.07999999821186066);
+  align-items: center;
+  border-color: rgba(218, 227, 242, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: var(--dl-color-neutrals-0);
+}
+.incluit-challenge-frame168 {
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.incluit-challenge-icons23 {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 40px;
+  background-color: var(--dl-color-brand-default);
+  background-image: linear-gradient(
+    153deg,
+    rgba(23, 111, 234, 1) 0%,
+    rgba(255, 127, 255, 1) 100%
+  );
+}
+.incluit-challenge-aerolablogo16 {
+  top: 4px;
+  left: 2px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-aerolablogo115 {
+  top: 2.9999983310699463px;
+  left: 2.5000662803649902px;
+  width: 20px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.incluit-challenge-page115 {
+  top: 0px;
+  left: 0px;
+  width: 19.384618759155273px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-catalog15 {
+  top: 0px;
+  left: 0px;
+  width: 19.384618759155273px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-top15 {
+  top: 0px;
+  left: 0px;
+  width: 19.384618759155273px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.incluit-challenge-logo16 {
+  top: 0px;
+  left: 0px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.incluit-challenge-icons24 {
+  width: 24px;
+  height: 24px;
+}
