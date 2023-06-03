@@ -2,7 +2,7 @@
 
 ## Resumen
 
-¡Hola Alfredo! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
+¡Hola Sebastian! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
 
 ## Objetivos del challenge
 
@@ -11,7 +11,7 @@
 - [✓] Crear una versión de escritorio
 
 - [✗] Cada producto debe tener un precio visible en puntos.
-- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página) Envía a 404 Not Found
+- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página) No lleva al proyecto
 - [✗] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
 - [✗] El usuario debería poder ver cuántos puntos tiene en su cuenta.
 - [✗] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
@@ -35,26 +35,25 @@
 
 
 ## Aspectos positivos
-
-- El proyecto sigue una estructura modular
-- Alojamiento en Netlify
-- Utilización de NextJS
-- Librería de estilos Tailwind
+- Utiliza estilos globales y asigna variables a características repetitivas
+- El diseño contiene la mayoría de las secciones requeridas
 
 ## Áreas de mejora
 
 1. **Funcionalidad**: 
-Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Estaría bueno que puedas cargar información desde la API
+Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Podés hacerlo utilizando JavaScript o utilizando algún framework para este lenguaje como React. También te recomiendo investigar la implementación de API para poder utilizar información de forma dinámica.
 
 2. **Responsividad**:
 En este aspecto es aconsejable que practiques el diseño responsive para que tus proyectos puedan ser adaptables a diferentes dispositivos generando una mejor experiencia para el usuario.
 
 3. **Detalles**:
-Veo que has puesto atención a varios detalles de diseño, estaría bueno que puedas terminar las secciones faltantes y agregar los estilos a los componentes que no tienen
+Es bueno poner atención a los detalles en general. Por ejemplo, falta mostrar los puntos del usuario en el navegador, así como mostrar los productos disponibles y terminar de estilar algunos elementos
+
 
 ## Conclusiones
 
-En general, el diseño va por buen camino. Te recomiendo terminar las funcionalidades pedidas por el challenge. Me gusta que hayas podido utilizar una librería de estilos como tailwind. Es un gran desafío considerando que te postulaste como backend y veo que has puesto mucho empeño
+Puedo observar que intentaste seguir la línea de estilos pedida. Te recomiendo trabajar con elementos más atómicos para mejorar la legibilidad, realizar la funcionalidad y utilizar información dinámica proveída por la API externa.
+En mi opinión es un muy buen trabajo considerando que tu postulación ha sido como backend/QA
 
 ¡Seguí adelante y seguí mejorando tus habilidades!
 
