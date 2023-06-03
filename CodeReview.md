@@ -2,7 +2,7 @@
 
 ## Resumen
 
-¡Hola Alvaro! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
+¡Hola Sofía! Estuve revisando la entrega de tu challenge y quiero compartir con vos algunos comentarios y sugerencias junto a la devolución.
 
 ## Objetivos del challenge
 
@@ -11,8 +11,8 @@
 - [✓] Crear una versión de escritorio
 
 - [✓] Cada producto debe tener un precio visible en puntos.
-- [✗] Vínculo al repositorio de GitHub del proyecto (pie de página) El link no es el correcto
-- [✗] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
+- [✓] Vínculo al repositorio de GitHub del proyecto (pie de página)
+- [✓] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
 - [✗] El usuario debería poder ver cuántos puntos tiene en su cuenta.
 - [✗] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
 - [✓] Un botón "Canjear" debe estar disponible para aquellos productos que el usuario tiene suficientes puntos para reclamar.
@@ -36,24 +36,25 @@
 
 ## Aspectos positivos
 
-- El formato visual obtenido es muy acorde al solicitado por el desafío
-- Alojamiento en GithubIO
+- Utilizaste peticiones fetch para obtener información de la API
+- El formato visual obtenido es muy acorde al solicitado por el desafíos
 
 ## Áreas de mejora
 
 1. **Funcionalidad**: 
-Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Podés hacerlo utilizando JavaScript o utilizando algún framework para este lenguaje como React. También te recomiendo investigar la implementación de API para poder utilizar información de forma dinámica.
+Te recomiendo agregar la funcionalidad correspondiente. Es un punto muy importante a la hora de evaluar un challenge. Te recomiendo para una próxima oportunidad que utilices un framework de JS como React para poder agregar más funcionalidad al proyecto. 
+Cuando traigas información externa te sugiero utilizar funciones asíncronas así como manejar el bloque try-catch para verificar si ocurre algún error.
 
 2. **Responsividad**:
 En este aspecto es aconsejable que practiques el diseño responsive para que tus proyectos puedan ser adaptables a diferentes dispositivos generando una mejor experiencia para el usuario.
 
 3. **Detalles**:
-Es bueno poner atención a los detalles en general. Por ejemplo, si hablamos de diseño, podés agregar la pseudo-clase ":hover" a algunos de tus elementos para que al pasar el mouse sobre ellos se produzca algún cambio o genere interactividad.
+Es bueno poner atención a los detalles en general. Por ejemplo, en el desplegable de categorías, podés realizar un filtro a la información para que no se muestren opciones repetidas y los botones de ordenamiento, al hacer hover podrías cambiarle el color de la letra para que no se pierda la palabra en el fondo.
 
 
 ## Conclusiones
 
-En general, el diseño de la página es agradable y condice bastante a lo requerido. Sin embargo, se recomienda trabajar con elementos más atómicos para mejorar la legibilidad, mejorar la funcionalidad y utilizar información dinámica proveída por la API externa.
+En general, el diseño de la página es agradable y condice bastante a lo requerido. Sin embargo, se recomienda trabajar con elementos más atómicos para mejorar la legibilidad y mejorar la funcionalidad
 
 ¡Seguí adelante y seguí mejorando tus habilidades!
 
