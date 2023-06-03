@@ -11,27 +11,27 @@
 - [✓] Crear una versión de escritorio
 
 - [✓] Cada producto debe tener un precio visible en puntos.
-- [x] Vínculo al repositorio de GitHub del proyecto (pie de página)
-- [x] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
-- [x] El usuario debería poder ver cuántos puntos tiene en su cuenta.
-- [x] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
+- [X] Vínculo al repositorio de GitHub del proyecto (pie de página)
+- [X] El usuario debe poder ordenar los productos por precio, de mayor a menor, y viceversa.
+- [X] El usuario debería poder ver cuántos puntos tiene en su cuenta.
+- [X] Debe haber una forma clara para que el usuario distinga aquellos productos que puede canjear de aquellos que no puede.
 - [✓] Un botón "Canjear" debe estar disponible para aquellos productos que el usuario tiene suficientes puntos para reclamar.
-- [x] Una opción "Canjear ahora" debería aparecer cuando el usuario interactúa con un producto que tiene suficientes puntos para reclamar.
-- [x] Cuando el usuario no tiene suficientes puntos para un producto, debería poder ver cuántos puntos más necesita para reclamarlo.
-- [x] El usuario no debería poder canjear un producto para el que no tiene suficientes puntos.
-- [x] Cuando el usuario hace clic en el botón Canjear ahora, el sistema debería deducir automáticamente el precio del artículo de los puntos de los usuarios.
-- [x] El usuario debe poder agregar puntos a su cuenta
+- [X] Una opción "Canjear ahora" debería aparecer cuando el usuario interactúa con un producto que tiene suficientes puntos para reclamar.
+- [X] Cuando el usuario no tiene suficientes puntos para un producto, debería poder ver cuántos puntos más necesita para reclamarlo.
+- [X] El usuario no debería poder canjear un producto para el que no tiene suficientes puntos.
+- [X] Cuando el usuario hace clic en el botón Canjear ahora, el sistema debería deducir automáticamente el precio del artículo de los puntos de los usuarios.
+- [X] El usuario debe poder agregar puntos a su cuenta
 
 ### Nivel 2
 
 - [✓] Crea una versión adaptable para dispositivos móviles
 
-- [x] El botón "ver todos los productos" (en la sección Héroe/Encabezado) debe desplazarse a la vista de los productos enumerados
-- [x] Haga la sección "Navegar, Elegir, Disfrutar"
+- [X] El botón "ver todos los productos" (en la sección Héroe/Encabezado) debe desplazarse a la vista de los productos enumerados
+- [X] Haga la sección "Navegar, Elegir, Disfrutar"
 - [✓] Pon todo tu esfuerzo en hacer que el sitio se vea hermoso
-- [x] Presta atención a los detalles y al sistema de diseño que te proporcionamos
-- [x] El usuario debe poder filtrar productos por categoría
-- [x] El usuario debería poder usar la paginación para ver más productos listados
+- [X] Presta atención a los detalles y al sistema de diseño que te proporcionamos
+- [X] El usuario debe poder filtrar productos por categoría
+- [X] El usuario debería poder usar la paginación para ver más productos listados
 
 
 ## Aspectos positivos
